@@ -64,7 +64,7 @@ const SortArray = () => {
             <div
                 style={{
                     display: "flex",
-                    flexDirection: "column", // вот это заставляет список идти вниз
+                    flexDirection: "column",
                     alignItems: "center",
                     marginTop: "5px",
                 }}
